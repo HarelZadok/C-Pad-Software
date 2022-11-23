@@ -1,0 +1,69 @@
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\C_Pad_Software.exe.config
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\C_Pad_Software.exe
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\C_Pad_Software.pdb
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\System.Reactive.dll
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\System.Reactive.Windows.Forms.dll
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\System.Reactive.xml
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\System.Reactive.Windows.Forms.xml
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\harel\RiderProjects\C-Pad Software\x64\Debug\C-Pad Software.exe.config
+C:\Users\harel\RiderProjects\C-Pad Software\x64\Debug\C-Pad Software.exe
+C:\Users\harel\RiderProjects\C-Pad Software\x64\Debug\C-Pad Software.pdb
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.AssemblyReference.cache
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\DelaySelection.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\FileSelection.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\KeySelection.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\MainWindow.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\TextSelection.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\WaitingForConnection.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\App.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software_MarkupCompile.cache
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software_MarkupCompile.lref
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\DelaySelection.baml
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\FileSelection.baml
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\KeySelection.baml
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\MainWindow.baml
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\TextSelection.baml
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\WaitingForConnection.baml
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software.g.resources
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C_Pad_Software.Properties.Resources.resources
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.GenerateResource.cache
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.CoreCompileInputs.cache
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.Fody.CopyLocal.cache
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.CopyComplete
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software.exe
+C:\Users\harel\RiderProjects\C-Pad Software\C-Pad Software\obj\x64\Debug\C-Pad Software.pdb
+C:\Users\harel\RiderProjects\C-Pad Software - Release\x64\Debug\C-Pad Software.exe.config
+C:\Users\harel\RiderProjects\C-Pad Software - Release\x64\Debug\C-Pad Software.exe
+C:\Users\harel\RiderProjects\C-Pad Software - Release\x64\Debug\C-Pad Software.pdb
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.AssemblyReference.cache
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\DelaySelection.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\FileSelection.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\KeySelection.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\MainWindow.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\TextSelection.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\WaitingForConnection.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\App.g.cs
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software_MarkupCompile.cache
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software_MarkupCompile.lref
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\DelaySelection.baml
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\FileSelection.baml
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\KeySelection.baml
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\MainWindow.baml
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\TextSelection.baml
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\WaitingForConnection.baml
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software.g.resources
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C_Pad_Software.Properties.Resources.resources
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.GenerateResource.cache
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.CoreCompileInputs.cache
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.Fody.CopyLocal.cache
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software.csproj.CopyComplete
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software.exe
+C:\Users\harel\RiderProjects\C-Pad Software - Release\C-Pad Software\obj\x64\Debug\C-Pad Software.pdb

@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="C_Pad_Software.TextSelection"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:C_Pad_Software"
+             mc:Ignorable="d"
+             d:DesignHeight="120" d:DesignWidth="145"
+             >
+    <StackPanel Margin="0,20,10,0">
+        <WrapPanel>
+            <CheckBox Name="Checked" PreviewMouseLeftButtonUp="CheckChanged"></CheckBox>
+            <Button Name="Left" Click="OnMoveLeft" Margin="30,0,0,0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+                <TextBlock>←</TextBlock>
+            </Button>
+            <Button Name="Right" Click="OnMoveRight" Margin="30,0,0,0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+                <TextBlock>→</TextBlock>
+            </Button>
+        </WrapPanel>
+        <TextBox HorizontalAlignment="Stretch"
+                 VerticalAlignment="Stretch"
+                 HorizontalContentAlignment="Left"
+                 Name="Input"
+                 Background="Gainsboro"
+                 BorderThickness="0"
+                 TextWrapping="Wrap"
+                 AcceptsReturn="True"
+                 VerticalScrollBarVisibility="Auto"
+                 Width="135"
+                 Height="65"
+                 Margin="0,5,0,10">
+        </TextBox>
+    </StackPanel>
+</UserControl>
