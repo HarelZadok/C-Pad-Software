@@ -1,2 +1,0 @@
-C:\Users\harel\RiderProjects\C-Pad Software\CPad_Driver\x64\Debug\CPad_Driver.vcxproj.AssemblyReference.cache
-C:\Users\harel\RiderProjects\C-Pad Software - Release\CPad_Driver\x64\Debug\CPad_Driver.vcxproj.AssemblyReference.cache
